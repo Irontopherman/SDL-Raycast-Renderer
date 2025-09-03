@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimgloader.a CMakeFiles/imgloader.dir/main.c.o "CMakeFiles/imgloader.dir/home/christopher/SDL-Addons/Image_Loader/gcc_compatible/img_loader/img_loader.c.o"
+/usr/bin/ranlib libimgloader.a

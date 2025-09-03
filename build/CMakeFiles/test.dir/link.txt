@@ -1,0 +1,1 @@
+/usr/bin/cc  -m64 CMakeFiles/test.dir/main.c.o -o test  -Wl,-rpath,/home/christopher/SDL_image/cmake:/usr/local/lib libimgloader.a /home/christopher/SDL_image/cmake/libSDL3_image.so.0.3.0 /usr/local/lib/libSDL3.so.0.3.0 

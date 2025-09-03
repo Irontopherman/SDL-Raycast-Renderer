@@ -1,0 +1,4 @@
+/home/christopher/C_Projects/SDL_Projects/raytrace_renderer/build/CMakeFiles/imgloader.dir
+/home/christopher/C_Projects/SDL_Projects/raytrace_renderer/build/CMakeFiles/test.dir
+/home/christopher/C_Projects/SDL_Projects/raytrace_renderer/build/CMakeFiles/edit_cache.dir
+/home/christopher/C_Projects/SDL_Projects/raytrace_renderer/build/CMakeFiles/rebuild_cache.dir
